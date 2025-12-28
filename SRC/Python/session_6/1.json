@@ -1,0 +1,6 @@
+{
+    "hello": ["Hi!", "Hello there!"],
+    "how are you": ["I'm fine", "Doing great!"],
+    "goodbye": ["See you later!", "Bye bye!"],
+    "default": ["I don't understand that."]
+}
