@@ -1,0 +1,4 @@
+Hello, World!
+This is a test file for the TextFileReader class.
+It contains multiple lines, words, and characters.
+Happy coding!
