@@ -1,0 +1,4 @@
+admin:1234
+ahmed:password55
+sara:my_secret_pass
+guest:0000
