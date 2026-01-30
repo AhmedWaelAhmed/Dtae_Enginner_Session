@@ -1,5 +1,4 @@
-# ---------------------------------------------------------
-# File Name: outliers.py
+
 # Purpose: Detect and Handle Outliers (Phase C)
 # ---------------------------------------------------------
 import pandas as pd

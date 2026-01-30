@@ -1,5 +1,4 @@
-# ---------------------------------------------------------
-# File Name: cleaning.py
+
 # Purpose: Apply specific cleaning actions (Drop, Fill, etc.)
 # ---------------------------------------------------------
 import pandas as pd

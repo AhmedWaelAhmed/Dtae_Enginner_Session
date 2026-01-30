@@ -1,5 +1,4 @@
-# ---------------------------------------------------------
-# File Name: duplicates.py
+
 # Purpose: Check and Remove Duplicates (Phase D)
 # ---------------------------------------------------------
 import pandas as pd
